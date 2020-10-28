@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: pyzk3
+Version: 0.1
+Summary: Zk Attendance Machine library for Python3
+Home-page: UNKNOWN
+Author: Ghulam Masood, Sanaullah khan
+Author-email: ghulam.masood@gmail.com, online.sanaullah@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Programming Language :: Python :: 3.5
